@@ -1,1 +1,25 @@
 # CS-330-Computation-Graphics-Visualization
+# How do I approach designing software?
+  The first thing before beginning a design on any type of software is understanding the requirements of the project from the client or myself. Then, I can plan, design, implement, test, and deploy the product out to the end user.
+  What new design skills has your work on the project helped you to craft?
+This project presented many challenges along the way, but I think the most important thing that I learned is not to be afraid to ask questions. Teams aren't always a perfect fit, but you won't ever get anywhere without asking questions especially if you don't understand what you should be doing.
+  What design process did you follow for your project work?
+Throughout my career, I have had many different standard operating procedures for getting things completed in an organized manner. My process for designing a program is very simple and straightforward to accomplish the task at hand and meet the requirements. I try not to add too many steps or overcomplicate things, because I have learned that I get caught up in the lines and focusing on too many things at once and mess up. So I like keeping my process simple and short to limit my errors while in development.
+  How could tactics from your design approach be applied in future work?
+I think that my processes will eventually develop further, and I will learn other ways to accomplish goals. I think that keeping things simple and being able to be flexible with requests will help me keep an agile method state of mind. My tactics could be applied in every future project whether its programming or not programming. Keeping things simple, being flexible, having a team that communicates clearly are all keys to having a successful product.
+
+# How do I approach developing programs?
+  I approach developing software the same way that I would develop a program. Understand the requirements of the project first, and then build based on the goals of the end user. I mentioned above adding the flexibility of agile methodology into a project, and I think that is a big key to building good products. It encourages the developers to generate code that is clear, well commented, and includes reusable functions that can easily be manipluated if changes come from the client.
+  What new development strategies did you use while working on your 3D scene?
+I didn't change any of my strategies during the 3D scene. I would say the biggest change was just the amount of time spent in each phase of the process. I spent many more hours in the testing phase of this project, because there were so many different pieces that needed to be in a specific place. I didn't change any of my development strategies though.
+  How did iteration factor into your development?
+Iteration factored into my development through my meetings with Professor Battersby. Iteration involves revisiting and refining different aspects of a project to improve the quality, functionality, and alignment with the users requirements. Usually iteration follows a process of gathering feedback, making changes, and then having the revisions overseen again. It allows for improvements, adapting to chaning requirements, and eventually leads to a better product.
+  How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+My skills of developing code have progressed with reading through different lines of code to find errors, learning about different libraries and how to interact with those libraries, and testing code more thoroughly than I have in any other project. Applying all of the information that I have learned into the final project rewarded me an A on the final project.
+
+# How can computer science help me in reaching my goals?
+Comuter science can help me reach my goals by continuing to teach me new ways to problem solve, automate repetitive tasks, analyze data more thoroughly and efficiently, and be creative and innovative. I have always held positions where all of these skills become a requirement to survive, and I feel like I am continuing to expand these skills throughout this program.
+  How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+This course has given me more confidence to asks more questions, and try to be more involved throughout a course especially with this being an online learning platform. Many people are hesitant to reach out for help, but I am learning that it is a requirement to learn the skills to be a better computer scientist.
+  How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+My professional pathway will be more data analytics than graphics and visualization, but I will be able to apply problem solving and communication skills toward any position no matter what it is that I am doing. Refining those skills and everything else that I have mentioned previously will help in some way or fashion throughout my professional career.
